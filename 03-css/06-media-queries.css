@@ -60,7 +60,7 @@ body {
   }
 }
 
-.visually-hidden {
+.css-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -71,7 +71,7 @@ body {
   border: 0;
 }
 
-.visually-hidden {
+.css-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
